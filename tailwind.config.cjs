@@ -6,6 +6,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      screens: {
+        '3xl': '1600px',
+      },
       fontFamily : {
         sans: ['Public Sans','sans-serif'],
       }
