@@ -1,6 +1,6 @@
 <template>
   <section class="bg-white h-[100%]">
-    <article class="pt-20 mx-10 md:mx-48 md:w-3/5">
+    <article class="pt-20 2xl:pt-32 mx-10 sm:mx-20 md:mx-48 lg:mx-52 xl:mx-64 3xl:mx-auto md:w-3/5">
       <h1 class="font-bold text-3xl text-[#5B9BD5] font-sans py-3">
         Bringing Government Data People Together
       </h1>
