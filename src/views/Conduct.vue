@@ -2,7 +2,7 @@
 </script>
 
 <template>
-<article class="pt-20 mx-10 md:mx-48 md:w-3/5 prose">
+<article class="pt-20 2xl:pt-32 mx-10 sm:mx-20 md:mx-48 lg:mx-52 xl:mx-64 3xl:mx-auto md:w-3/5 prose">
 <h2 class="text-[#5B9BD5]">Public Sector Data Chat strives to be a safe and welcoming environment for all participants.  </h2>
 <h3 class="text-[#5B9BD5]">Expected Behavior</h3>
 <ul>
